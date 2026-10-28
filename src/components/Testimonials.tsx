@@ -3,19 +3,19 @@ import { Reveal } from './Reveal';
 
 const TESTIMONIALS = [
   {
-    name: 'Client Name',
+    name: 'Narendra Kumar',
     role: 'Home Buyer, Jayanagar',
-    text: 'Your review will appear here. Share your experience working with Drishani Consultants to help other customers.',
+    text: 'I had a great experience with Jeevan while purchasing my property. He guided me throughout the process, helped me understand the property details, and made the entire experience smooth and comfortable. His professionalism, patience, and support made it easier to choose the right property.Thank you, Jeevan, for your excellent service!',
   },
   {
-    name: 'Client Name',
+    name: 'Jyothi Reddy',
     role: 'Property Owner, JP Nagar',
-    text: 'Your review will appear here. Share your experience working with Drishani Consultants to help other customers.',
+    text: 'I had a wonderful experience with Jeevan while purchasing my property. He provided excellent guidance, explained all the details clearly, and helped me choose a property that suited my needs. His patience, professionalism, and friendly approach made the entire buying process smooth and stress-free.I truly appreciate his support and dedication. I would definitely recommend Jeevan to anyone looking to buy a good property!Thank you, Jeevan, for making my property-buying journey a great experience ❤️.',
   },
   {
-    name: 'Client Name',
+    name: 'Menaka Venugopal',
     role: 'Tenant, Basavanagudi',
-    text: 'Your review will appear here. Share your experience working with Drishani Consultants to help other customers.',
+    text: 'I had a very good experience with Jeevan. He was helpful, friendly, and guided me throughout the property-buying process. Thank you for your excellent service! 😊.',
   },
 ];
 
